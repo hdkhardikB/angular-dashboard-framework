@@ -1,6 +1,6 @@
 {
-  "name": "angular-dashboard-extend",
-  "version": "1.13.1",
+  "name": "angular-dashboard-extend-contrib",
+  "version": "2.0.1",
   "license": "MIT",
   "authors": "Hardik Babaria",
   "devDependencies": {
