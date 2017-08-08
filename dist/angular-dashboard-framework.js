@@ -1,4 +1,4 @@
-(function (window, undefined) {
+﻿(function (window, undefined) {
   'use strict';
   /*
    * The MIT License
@@ -63,8 +63,6 @@
    */
   angular.module('adf')
     .factory('widgetService', ["$http", "$q", "$sce", "$templateCache", "dashboard", function ($http, $q, $sce, $templateCache, dashboard) {
-
-      console.log('the forked one !!');
 
       function parseUrl(url) {
         var parsedUrl = url;

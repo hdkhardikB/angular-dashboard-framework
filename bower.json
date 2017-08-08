@@ -1,9 +1,9 @@
 {
-  "name": "angular-dashboard-framework",
-  "version": "0.13.0-SNAPSHOT",
+  "name": "angular-dashboard-extend",
+  "version": "1.13.1",
   "license": "MIT",
   "authors": [
-    "Sebastian Sdorra"
+    "Hardik Babaria"
   ],
   "main": [
     "dist/angular-dashboard-framework-tpls.js",
@@ -50,6 +50,6 @@
     "es5-shim": ">=4.1"
   },
   "resolutions": {
-    "angular": ">=1.4 <1.6"
+    "angular": "1.5.11"
   }
 }

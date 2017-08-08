@@ -1,8 +1,8 @@
 {
-  "name": "angular-dashboard-framework",
-  "version": "0.13.0-SNAPSHOT",
+  "name": "angular-dashboard-extend",
+  "version": "1.13.1",
   "license": "MIT",
-  "authors": "Sebastian Sdorra",
+  "authors": "Hardik Babaria",
   "devDependencies": {
     "connect-modrewrite": "^0.8.2",
     "del": "^2.0.2",
